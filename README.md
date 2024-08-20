@@ -9,7 +9,7 @@ The dataset includes information on 638 air routes, capturing various factors su
 ## Repository Structure
 
 - **HW_1_Project_Report.pdf**: Contains the detailed report for Part 1 of the project, focusing on Exploratory Data Analysis (EDA).
-- **HW2_Project_Report.pdf**: Contains the detailed report for Part 2 of the project, focusing on Modeling and prediction of airfare.
+- **HW_2_Project_Report.pdf**: Contains the detailed report for Part 2 of the project, focusing on Modeling and prediction of airfare.
 - **Airfares_Cleaned_Harshaanth Kumar.xlsx**: The cleaned dataset used for analysis, containing all relevant variables and data points.
 
 ## Part 1: Exploratory Data Analysis (EDA)
