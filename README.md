@@ -14,7 +14,7 @@ Click to view the project file: https://github.com/harshaanth/DM-Airfare-Pricing
 
 - **HW_2_Project_Report.pdf**: Contains the detailed report for Part 2 of the project, focusing on Modeling and prediction of airfare.
 
-Click to view the project file: 
+Click to view the project file: https://github.com/harshaanth/DM-Airfare-Pricing-Analysis/blob/main/HW_2_Project_Report.pdf
 
 - **Airfares_Cleaned_Harshaanth Kumar.xlsx**: The cleaned dataset used for analysis, containing all relevant variables and data points.
 
